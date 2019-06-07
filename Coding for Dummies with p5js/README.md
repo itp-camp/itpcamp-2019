@@ -1,8 +1,8 @@
 # coding for dummies with p5.js
 
-Session Leaders: Sid Chou
-Tags: #coding • #javascript • #p5.js • #beginner level
-Created By: Sid Chou
+Session Leaders: Sid Chou  
+Tags: #coding • #javascript • #p5.js • #beginner level  
+Created By: Sid Chou  
 Session link: https://itp.nyu.edu/camp2019/session/29
 
 *This section has the same content as the one on ran on june 3rd.*
