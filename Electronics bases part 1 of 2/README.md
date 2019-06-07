@@ -1,4 +1,4 @@
-# Electronics bases part 1/2 - theory: simple components
+# Electronics bases part 1/2 — theory: simple components
 
 Session Leaders: Cedric  
 Tags: `Intro` `Electronics` `Components` `Theory`  
