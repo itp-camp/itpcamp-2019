@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="I~02" Subject="10" InputType="stylus" Speed="MEDIUM" NumPts="63">
+	<Stroke index="1">
+		<Point X="58" Y="27" T="1302126569490" Pressure="128" />
+		<Point X="131" Y="25" T="1302126569506" Pressure="128" />
+		<Point X="138" Y="26" T="1302126569506" Pressure="128" />
+		<Point X="141" Y="26" T="1302126569522" Pressure="128" />
+		<Point X="143" Y="26" T="1302126569522" Pressure="128" />
+		<Point X="144" Y="26" T="1302126569522" Pressure="128" />
+		<Point X="145" Y="26" T="1302126569538" Pressure="128" />
+		<Point X="145" Y="26" T="1302126569553" Pressure="128" />
+	</Stroke>
+	<Stroke index="2">
+		<Point X="89" Y="29" T="1302126569818" Pressure="128" />
+		<Point X="88" Y="33" T="1302126569818" Pressure="128" />
+		<Point X="89" Y="63" T="1302126569818" Pressure="128" />
+		<Point X="89" Y="67" T="1302126569834" Pressure="128" />
+		<Point X="88" Y="70" T="1302126569834" Pressure="128" />
+		<Point X="87" Y="74" T="1302126569850" Pressure="128" />
+		<Point X="86" Y="78" T="1302126569850" Pressure="128" />
+		<Point X="85" Y="82" T="1302126569865" Pressure="128" />
+		<Point X="84" Y="86" T="1302126569881" Pressure="128" />
+		<Point X="83" Y="90" T="1302126569881" Pressure="128" />
+		<Point X="81" Y="93" T="1302126569881" Pressure="128" />
+		<Point X="80" Y="96" T="1302126569896" Pressure="128" />
+		<Point X="79" Y="100" T="1302126569896" Pressure="128" />
+		<Point X="78" Y="103" T="1302126569912" Pressure="128" />
+		<Point X="77" Y="106" T="1302126569912" Pressure="128" />
+		<Point X="75" Y="109" T="1302126569928" Pressure="128" />
+		<Point X="74" Y="111" T="1302126569928" Pressure="128" />
+		<Point X="72" Y="114" T="1302126569943" Pressure="128" />
+		<Point X="70" Y="116" T="1302126569943" Pressure="128" />
+		<Point X="69" Y="118" T="1302126569943" Pressure="128" />
+		<Point X="67" Y="120" T="1302126569959" Pressure="128" />
+		<Point X="66" Y="122" T="1302126569959" Pressure="128" />
+		<Point X="64" Y="123" T="1302126569974" Pressure="128" />
+		<Point X="63" Y="125" T="1302126569990" Pressure="128" />
+		<Point X="63" Y="125" T="1302126569990" Pressure="128" />
+	</Stroke>
+	<Stroke index="3">
+		<Point X="34" Y="140" T="1302126570271" Pressure="128" />
+		<Point X="25" Y="137" T="1302126570271" Pressure="128" />
+		<Point X="31" Y="136" T="1302126570271" Pressure="128" />
+		<Point X="41" Y="135" T="1302126570286" Pressure="128" />
+		<Point X="48" Y="134" T="1302126570286" Pressure="128" />
+		<Point X="55" Y="133" T="1302126570302" Pressure="128" />
+		<Point X="62" Y="133" T="1302126570302" Pressure="128" />
+		<Point X="69" Y="132" T="1302126570302" Pressure="128" />
+		<Point X="77" Y="131" T="1302126570318" Pressure="128" />
+		<Point X="85" Y="131" T="1302126570333" Pressure="128" />
+		<Point X="92" Y="131" T="1302126570333" Pressure="128" />
+		<Point X="100" Y="130" T="1302126570333" Pressure="128" />
+		<Point X="108" Y="130" T="1302126570349" Pressure="128" />
+		<Point X="115" Y="130" T="1302126570364" Pressure="128" />
+		<Point X="122" Y="130" T="1302126570364" Pressure="128" />
+		<Point X="128" Y="130" T="1302126570380" Pressure="128" />
+		<Point X="134" Y="130" T="1302126570380" Pressure="128" />
+		<Point X="139" Y="130" T="1302126570380" Pressure="128" />
+		<Point X="143" Y="130" T="1302126570396" Pressure="128" />
+		<Point X="147" Y="130" T="1302126570411" Pressure="128" />
+		<Point X="150" Y="130" T="1302126570411" Pressure="128" />
+		<Point X="153" Y="130" T="1302126570411" Pressure="128" />
+		<Point X="155" Y="130" T="1302126570427" Pressure="128" />
+		<Point X="157" Y="131" T="1302126570427" Pressure="128" />
+		<Point X="159" Y="131" T="1302126570442" Pressure="128" />
+		<Point X="160" Y="131" T="1302126570458" Pressure="128" />
+		<Point X="161" Y="131" T="1302126570458" Pressure="128" />
+		<Point X="162" Y="131" T="1302126570474" Pressure="128" />
+		<Point X="162" Y="132" T="1302126570489" Pressure="128" />
+		<Point X="162" Y="132" T="1302126570505" Pressure="128" />
+	</Stroke>
+</Gesture>
