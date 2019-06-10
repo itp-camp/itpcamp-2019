@@ -5,7 +5,9 @@ Tags: `p5` `github` `collaboration` `git` `creativecoding`.
 Created By: Matt Ross   
 Session link: https://itp.nyu.edu/camp2019/session/87
 
-=====
+---
+
+### GitHub repo: https://github.com/mross1080/GithubForArtistsITPCamp
 
 
 Welcome to GitHub for artists! This repository is an introduction to the history and basics of git, by [Matt Ross]() and [Brent Bailey](http://brentlbailey.com). Git and GitHub are extremely powerful tools for collaborative and iterative work, and an essential part of anyone working in creative technology or digital media’s toolkit. It’s our hope that these tutorials and resources will help people new to these technologies begin to adopt them. To that end, we’re happy to accept pull requests, suggestions, and more to make these resources as useful as they can be.
