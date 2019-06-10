@@ -1,7 +1,7 @@
 # Github for Artists : Experiment and Collaborate Faster
 
 Session Leaders: Matt Ross + brent  
-Tags: `p5` `github` `collaboration` `git` `creativecoding`. 
+Tags: `p5` `github` `collaboration` `git` `creativecoding`   
 Created By: Matt Ross   
 Session link: https://itp.nyu.edu/camp2019/session/87
 
