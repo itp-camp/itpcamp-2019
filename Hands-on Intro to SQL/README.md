@@ -1,6 +1,6 @@
 # Hands-on Intro to SQL
 
-Session Leader: Alice Liang
+Session Leader: Alice Liang  
 Tags: `data` `database` `sql`  
 Created By: Alice Liang  
 Session link: https://itp.nyu.edu/camp2019/session/119
